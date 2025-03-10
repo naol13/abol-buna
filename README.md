@@ -2,7 +2,8 @@
 ## Student Information
  - **Name**: naol sisay 
  - **Student ID**: naol
- - **Course**: computer algolirtism
+ - **Course**: DSA
+
  # Abol Buna Cafe
 
 This project is a simple C++ program that simulates a cafe menu system. It allows you to add items to the menu, display the menu, and calculate the total cost of an order.
