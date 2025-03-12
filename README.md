@@ -41,7 +41,7 @@ This project is a simple C++ program that simulates a cafe menu system. It allow
 
 ### Using the Program
 
-The program will display the menu and calculate the total cost of a predefined order. You can modify the `main` function in `abol.cpp` to add more items or change the order.
+The program will Display the menu and calculate the total cost of a predefined order. You can modify the `main` function in `abol.cpp` to add more items or change the order.
 
 ```cpp
 int main() {
